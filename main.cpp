@@ -120,7 +120,7 @@ return totalPizza * pricePerPizza;
 }
 
 //PURPOSE - find the cost of gst of the order
-//INPUTS - subtotal - the subtotal of the order withput gst
+//INPUTS - subtotal - the subtotal of the order without gst
 //OUTPUTS - returns the GST (5%) on a subtotal
 double calcGst(double subtotal)
 {
